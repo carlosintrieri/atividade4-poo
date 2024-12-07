@@ -8,6 +8,7 @@
     "materialize-css": "^1.0.0",
     "mysql2": "^3.11.5",
     "react": "^19.0.0",
+    "react-input-mask": "^2.0.4",
     "react-router-dom": "^7.0.2"
   },
   "devDependencies": {
